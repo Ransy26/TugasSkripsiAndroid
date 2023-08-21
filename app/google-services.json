@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "483788259693",
+    "project_id": "tugasskripsi-4941e",
+    "storage_bucket": "tugasskripsi-4941e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483788259693:android:0ba199d7fcdbff657a9a64",
+        "android_client_info": {
+          "package_name": "com.example.tugasskripsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483788259693-h3aupp2dn2kjrm12irb4ge0csbfskbms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugasskripsi",
+            "certificate_hash": "a4fbcd319a96dc273adf29ab0578324a31c0890e"
+          }
+        },
+        {
+          "client_id": "483788259693-keds7bb6rcgjh1rjp581ke9sofn5id82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkgS9Vf3vDRHQ_27lT8FQSOVHW8onibhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483788259693-keds7bb6rcgjh1rjp581ke9sofn5id82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
